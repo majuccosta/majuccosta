@@ -30,6 +30,7 @@
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=majuccosta&show_icons=true&theme=radical&rank_icon=github"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majuccosta&layout=compact&theme=radical"/>
 
 </div>
