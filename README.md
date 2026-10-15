@@ -12,13 +12,13 @@
    <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
-      Hi there!
+      Olá!
    </samp>
 </div>
 
 <div align="center" width="100%">
   
- <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+Maria+Julia+and+i%27m+20;I%27m+currently+studying+Computer+Science+;More+information+about+me+down+below!;Be+welcome+:)" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=Me+chamo+Maria+Júlia+Atualmente+estou+cursando+Ciencia+Da+computacao;Seja+bem+vindo+:)" alt="Typing SVG"/>
 </div>
 
 <br>
