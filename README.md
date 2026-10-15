@@ -17,8 +17,7 @@
 </div>
 
 <div align="center" width="100%">
-  
- <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=Me+chamo+Maria+Júlia+Atualmente+estou+cursando+Ciencia+Da+computacao;Seja+bem+vindo+:)" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=F8418B&width=900&size=22&center=true&vCenter=true&lines=Me+chamo+Maria+J%C3%BAlia;Atualmente+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Seja+bem-vindo+%3A)" alt="Typing SVG"/>
 </div>
 
 <br>
